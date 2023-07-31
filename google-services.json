@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "712074247527",
+    "project_id": "auth-a84df",
+    "storage_bucket": "auth-a84df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712074247527:android:7c0d41328cb9f85be383c2",
+        "android_client_info": {
+          "package_name": "com.tyradominus2000.GoogleAuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712074247527-1i0ej3gm5b44s2tt6n6t4qhgq4t1upfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tyradominus2000.GoogleAuth",
+            "certificate_hash": "2f0bb2b20b43154fe4ec5bf70b9da03c573ff9ac"
+          }
+        },
+        {
+          "client_id": "712074247527-2u72ujlh2er2jvapdvtnl15csf8di797.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tyradominus2000.GoogleAuth",
+            "certificate_hash": "a7ac3e8f77512bb9fd4579bfe87b97718f05349d"
+          }
+        },
+        {
+          "client_id": "712074247527-g1cfkjcfaqj82cshl4so8pp4u5dniob0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtGMh-jMHh0xDRvp1aj58i449rc0WNNYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712074247527-g1cfkjcfaqj82cshl4so8pp4u5dniob0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
